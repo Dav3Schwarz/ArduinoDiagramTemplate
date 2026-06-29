@@ -1,4 +1,5 @@
 # Arduino Diagram Template
+[Skeleton Screen Shot](ScreenShots/Circuit_Diagram_Skeleton_ScreenGrab1.jpg)
 I have created a skeleton template for the Arduino UNO board which is easy to customize using [draw.io](https://app.diagrams.net/) 
 Simply download the io file and upload it to the website.
 
